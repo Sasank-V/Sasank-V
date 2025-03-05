@@ -9,7 +9,7 @@
 - 🎓 **2nd Year University Student** passionate about tech and development
 - 🚀 Full-Stack Developer | Backend Specialist
 - 🔢 **DSA Enthusiast** solving LeetCode for **260+ days straight**
-- ☁️ Currently exploring **Cloud Computing** and **DevOps** 
+- ☁️ Currently exploring **Cloud Computing** , **DevOps** and **LLMs** 
 
 ---
 
