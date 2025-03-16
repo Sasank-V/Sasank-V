@@ -8,40 +8,41 @@
 
 - 🎓 **2nd Year University Student** passionate about tech and development
 - 🚀 Full-Stack Developer | Backend Specialist
-- 🔢 **DSA Enthusiast** solving LeetCode for **260+ days straight**
+- 🔢 **DSA Enthusiast**
 - ☁️ Currently exploring **Cloud Computing** , **DevOps** and **LLMs** 
 
 ---
 
 ### 🔧 Tech Stack:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-4FC08D?style=for-the-badge&logo=websockets&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 🎨 My Projects:
 
-- 📄 **[Files.io](https://github.com/Sasank-V/Files.io)** 📂: A platform where professors can upload and organize learning materials. Built with React, Node.js, MongoDB, and Firebase.
+- 🏨 **[Mail.io](https://github.com/Sasank-V/Mail-io)** 📍: A AI Powered Mail Manager for smart classification based on user categories. Built with Next.js and MongoDB.
 - 🔢 **[Chess.io](https://github.com/Sasank-V/Chess.io)** 🌎: Play chess with friends while video chatting! Built with React, WebRTC, and WebSockets.
+- 📄 **[Files.io](https://github.com/Sasank-V/Files.io)** 📂: A platform where professors can upload and organize learning materials. Built with React, Node.js, MongoDB, and Firebase.
 - 🚀 **[MagicPrompts](https://github.com/Sasank-V/MagicPrompts)** 🎨: Share your favorite AI prompts with others! Built with Next.js and MongoDB.
 - 🏨 **[WanderLust](https://github.com/Sasank-V/WanderLust)** 📍: An Airbnb clone with full CRUD functionality, built using Node.js, Express, and MongoDB.
-
 ---
 
 ### 🌍 Connect with Me:
