@@ -53,10 +53,9 @@
 ---
 
 ### 📊 GitHub Stats:
-
-![Sasank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasank-V&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank-V&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasank-V&theme=radical)
+[![My Contrubutions](https://github-readme-activity-graph.vercel.app/graph?username=Sasank-V&theme=github-dark-dimmed)](https://github.com/Sasank-V/github-readme-activity-graph)
+  ![Sasank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasank-V&show_icons=true&theme=radical)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasank-V&theme=radical)
+                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank-V&layout=compact&theme=radical)
 
 ---
 
