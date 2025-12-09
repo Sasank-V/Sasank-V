@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;RAG+%26+AI+Systems+Explorer;3rd+Year+CS+Student;Always+Learning+Something+New!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Researcher;CS+Student;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sasank-V&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sasank-v)
