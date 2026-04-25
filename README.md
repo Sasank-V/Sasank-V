@@ -1,6 +1,6 @@
 I’m a computer scientist deliberately focused on building from first principles.
 
-Instead of rushing toward tools or trends, I’m working through the harder path of understanding what’s underneath—how algorithms behave, how models learn, and where systems actually break.
+Instead of rushing toward tools or trends, I’m working through the harder path of understanding what’s underneath, how algorithms behave, how models learn, and where systems actually break.
 
 Right now, my priority is to repay gaps in my understanding.
 Not by skimming, but by revisiting concepts until they become clear, connected, and usable.
